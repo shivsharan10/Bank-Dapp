@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bank-dapp/static/css/main.cb7c4c77.css",
+    "main.js": "/bank-dapp/static/js/main.9d0f8b2e.js",
+    "index.html": "/bank-dapp/index.html",
+    "main.cb7c4c77.css.map": "/bank-dapp/static/css/main.cb7c4c77.css.map",
+    "main.9d0f8b2e.js.map": "/bank-dapp/static/js/main.9d0f8b2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb7c4c77.css",
+    "static/js/main.9d0f8b2e.js"
+  ]
+}
